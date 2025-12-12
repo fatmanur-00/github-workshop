@@ -1,4 +1,4 @@
-# GitHub Workshop HSD - Mesaj Duvarı
+# GitHub Workshop - Mesaj Duvarı
 
 Hoş geldiniz! Bu repo, GitHub'ın temel özelliklerini (fork, commit, pull request) öğrenmek için tasarlanmış interaktif bir workshop projesidir.
 
